@@ -17,6 +17,7 @@ func f(nums [6]int) {
 	fmt.Printf("%v\n", nums)
 }
 
+// again some test commits
 func main() {
 
 	nums := [...]int{0, 1, 2, 3, 4, 5}
