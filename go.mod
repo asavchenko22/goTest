@@ -1,3 +1,3 @@
-module github.com/asavchenko22/nixEd/goTest
+module github.com/asavchenko22/goTest
 
 go 1.17
